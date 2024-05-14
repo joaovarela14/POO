@@ -1,0 +1,6 @@
+Nome	Telemovel	Email	Data de Nascimento
+ id= 1 , name= Pedro Costa , telemovel= 925678901 , email= pedro@ua.pt , data_nascimento= 2002-07-05
+ id= 0 , name= Maria Santos , telemovel= 918765432 , email= maria@ua.pt , data_nascimento= 1998-03-20
+ id= 2 , name= Ana Sousa , telemovel= 911234567 , email= ana@ua.pt , data_nascimento= 1995-11-30
+ id= 4 , name= João Silva , telemovel= 912345678 , email= joao@ua.pt , data_nascimento= 2000-10-12
+ id= 3 , name= Rui Pereira , telemovel= 919876543 , email= rui@ua.pt , data_nascimento= 1990-02-15

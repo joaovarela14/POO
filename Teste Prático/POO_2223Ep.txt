@@ -1,0 +1,43 @@
+
+Alínea 1) ----------------------------------
+
+** Could not book CARAVAN space for client João Sousa[NORMAL: 123456789]..
+** Could not book CAR space for client João Sousa[NORMAL: 123456789]..
+** Could not book CAR space for client Ana Pereira[NORMAL: 234567890]..
+** Could not book CAR space for client Ana Pereira[NORMAL: 234567890]..
+
+** All client bookings
+{ campingSpace='{ duracao_maxima_aluguer='1095'}', data_inicio='2023-06-01', data_fim='2023-11-28'} Arlindo Marques[MEMBER: 501234567].
+
+Alínea 2) ----------------------------------
+
+
+ nome= Dunas , endereco= São Jacinto: Finished reading file.
+
+
+Looking for car space with dimensions 300x600
+** No options available for the type, dimensions, and dates requested.
+
+Looking for car space with dimensions 300x400
+{ duracao_maxima_aluguer='0'}, is available for a total price of 2700,00.
+
+
+ nome= Dunas , endereco= São Jacinto: AVAILABLE SPACES BY AREA
+{ duracao_maxima_aluguer='1095'}
+{ duracao_maxima_aluguer='1095'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+{ duracao_maxima_aluguer='0'}
+
